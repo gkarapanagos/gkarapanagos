@@ -21,7 +21,7 @@ Working full-stack with a modern technology stack running on Amazon Web Services
 | Software Engineering Internship with Agile Actors, Athens, Greece  | Summer 2016 |
 | ------------- | ------------- |
 
-Developed new notification features and error pages for the lottery games found at national- lottery.co.uk. 
+Developed new notification features and error pages for the lottery games found at https://national-lottery.co.uk. 
 Implemented back-end to front-end solutions in Java and tested those with Spock and GEB tests. 
 Collaborated with a remote group of engineers in the UK using Agile.
 
