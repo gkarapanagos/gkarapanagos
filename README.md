@@ -10,7 +10,7 @@
 
 <br>
 
-<h3> &#x1F1E5 EXPERIENCE </h3>
+<h3> &#x1F5E5 EXPERIENCE </h3>
 
 | Software Engineer with Onera Inc., San Francisco, U.S.A.  | 2017 - present |
 | ------------- | ------------- |
@@ -32,7 +32,7 @@ Collaborated with a remote group of engineers in the UK using Agile.
 Wrote unit and functional tests using PHP and Selenium. Developed a PHP Symfony service to support automated e-mails in different languages.
 Implemented additional options for the product’s online application panel and their respective features.
 
-<h3> &#x1F1E5 &nbsp; &nbsp; &#x1F1E5 &nbsp; &nbsp; &#x1F1E5  </h3>
+<h3> &#x1F5E5 &nbsp; &nbsp; &#x1F5E5 &nbsp; &nbsp; &#x1F5E5  </h3>
 
 <br>
 
@@ -46,7 +46,6 @@ Exported the trained model and compiled a detection routine written in C++ for t
 Ported the model and tested live threat detection with a Raspberry Pi 3 and a USB camera.
 
 
-| 
 Science Education Camp with CSIRO, Melbourne, Australia | Fall 2015 |
 | ------------- | ------------- |
 
